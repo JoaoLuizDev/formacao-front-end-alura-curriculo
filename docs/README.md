@@ -28,15 +28,15 @@ Nesta etapa, o foco foi a responsividade. O código que será usado de partida �
 <h1 align="center">Visualizar o Projeto Online</h1> 
 
 <p align="center">
-    <img src="/4- HTML e CSS - trabalhando com responsividade e publicacaoo de projetos/imagens/3 - tela inicial - projeto final.png" alt="tela inicial">
+    <img src="imagens/3 - tela inicial - projeto final.png" alt="tela inicial">
 </p>
 
 <p align="center">
-    <img src="/4- HTML e CSS - trabalhando com responsividade e publicacao de projetos/imagens/3 - sobre mim - projeto final.png" alt="tela Sobre Mim">
+    <img src="imagens/3 - sobre mim - projeto final.png" alt="tela Sobre Mim">
 </p>
 
 <p align="center">
-    <img src="/4- HTML e CSS - trabalhando com responsividade e publicacao de projetos/imagens/3 - curriculo - projeto final.png" alt="tela Curriculo">
+    <img src="3 - curriculo - projeto final.png" alt="tela Curriculo">
 </p>
 
 
