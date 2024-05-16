@@ -41,4 +41,5 @@ Nesta etapa, o foco foi a responsividade. O código que será usado de partida �
 
 
 ## Deploy
-**link:** https://formacao-front-end-alura.vercel.app/
+**Link Vercel:** https://formacao-front-end-alura.vercel.app/  
+**Link GitHub Pages:** https://joaoluizdev.github.io/formacao-front-end-alura-curriculo/
