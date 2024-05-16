@@ -36,7 +36,7 @@ Nesta etapa, o foco foi a responsividade. O código que será usado de partida �
 </p>
 
 <p align="center">
-    <img src="3 - curriculo - projeto final.png" alt="tela Curriculo">
+    <img src="imagens/3 - curriculo - projeto final.png" alt="tela Curriculo">
 </p>
 
 
